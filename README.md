@@ -1,6 +1,6 @@
 # Lab 4 - Making Tile Maps
 
-URL: 
+[Link to Web Page](https://jduffy8.github.io/tile_maps/)
 
 With my maps, I have examined the greater Seattle area, with a focus on the UW area and the area surrounding Lake Washington. With this map, I wanted to examine the relationship between the green spaces around Seattle and the ratio of 911 service calls made in an area. My map, with a minimum zoom of 3 and a maximum zoom of 14, allows for this to be done with ease, by including both maps with easy to distinguish features.
 
